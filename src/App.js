@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter, Route, Routes, Switch } from "react-router-dom";
+import LandingPage from "./Components/LandingPages/LandingPage";
+import LoginFormPage from "./Components/Login/LoginFormPage";
+import RegisterPage from "./Components/Register/RegisterPage";
+import LandingPageUser from "./Components/LandingPageUser/LandingPageUser";
+import BuatPesanan from "./Components/BuatPesanan/BuatPesanan";
+import BuatPesanan2 from "./Components/BuatPesanan2/BuatPesanan";
+import CekPesananPage from "./Components/CekPesanan/CekPesananPage";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <div>
+        <Routes>
+          <Route path="/" element={<LandingPage />} />
+          <Route path="/login" element={<LoginFormPage />} />
+          <Route path="/register" element={<RegisterPage />} />
+          <Route path="/home" element={<LandingPageUser />} />
+          <Route path="/jokivalorant" element={<BuatPesanan />} />
+          <Route path="/jokivalorant2" element={<BuatPesanan2 />} />
+          <Route path="/cekpesanan" element={<CekPesananPage />} />
+        </Routes>
+      </div>
+    </BrowserRouter>
   );
 }
 

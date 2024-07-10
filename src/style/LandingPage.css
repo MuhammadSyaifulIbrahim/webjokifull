@@ -1,0 +1,446 @@
+.myBG {
+  height: auto;
+  background: rgb(255, 255, 255);
+  background-size: cover;
+}
+
+.intro {
+  height: 30%;
+  display: end;
+  justify-content: end;
+  align-items: end;
+}
+
+.navigation0 {
+  background-color: #f54242;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+  margin-left: 70px;
+}
+
+.login {
+  font-family: "Poppins", sans-serif;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.logomen {
+  width: 100px;
+}
+
+.navigation {
+  font-size: medium;
+}
+
+.navigationTengah {
+  margin-left: 450px;
+}
+
+.makanansehat {
+  margin-top: 100px;
+}
+
+.gambarsehat img {
+  display: block;
+  margin-left: auto; /* Ensure the image is aligned to the right */
+}
+
+.intro-container {
+  margin-top: 60px; /* Add margin to all sides */
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.habit-container {
+  margin-top: 100px; /* Add margin to all sides */
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.introo {
+  background-color: #f8f9fa; /* Optional: Add a background color */
+  padding: 20px; /* Optional: Add padding inside the container */
+  border-radius: 10px; /* Optional: Add rounded corners */
+}
+
+.title {
+  font-size: 3rem;
+  color: hsl(0, 100%, 53%);
+  font-weight: bold;
+  position: relative;
+  font-family: "Poppins", sans-serif;
+}
+
+.title2 {
+  font-size: 3rem;
+  color: rgb(255, 0, 0);
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+}
+
+.slogan {
+  margin-top: 15px;
+  font-size: large;
+  justify-content: left;
+  text-align: left;
+  width: 70%;
+  color: #256656;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+
+.col-sm {
+  padding-top: 50px;
+  margin-left: 50px;
+}
+
+.button {
+  background-color: rgb(255, 36, 2);
+  border: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 50px;
+  width: max-content;
+  margin-top: 20px; /* Add margin to separate the button from text */
+  color: white;
+}
+
+.button:hover {
+  background-color: darkorange; /* Optional: Add a darker shade for hover effect */
+}
+
+.health-container {
+  margin-top: 100px; /* Add margin to all sides */
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.question-container {
+  margin-top: 100px; /* Add margin to all sides */
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.health {
+  margin-top: 100px;
+  height: 30%;
+  display: end;
+  justify-content: end;
+  align-items: end;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.title4 {
+  font-size: 2rem;
+  margin-left: 10px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-family: "Poppins", sans-serif;
+}
+
+.title6 {
+  margin-top: 20px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+
+.title7 {
+  margin-top: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.title8 {
+  margin-top: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.column-content {
+  width: 300px;
+  margin-top: 50px;
+  color: #256656;
+  text-align: center;
+  border-radius: 13px;
+}
+
+.column-content1 {
+  width: 300px;
+  margin-top: 50px;
+  color: #256656;
+  text-align: center;
+  border: 2px solid #d3d0d0; /* Adding border with color #256656 */
+  border-radius: 13px;
+  height: 550px;
+}
+
+.co-container {
+  margin-top: 100px; /* Add margin to all sides */
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.title12 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: rgb(238, 164, 73);
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+
+.title13 {
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 50px;
+  font-family: "Poppins", sans-serif;
+}
+
+.title15 {
+  font-size: small;
+  color: #256656;
+  margin-top: 30px;
+  text-align: left;
+  font-weight: bolder;
+  margin-bottom: 20px;
+  font-family: "DM Sans", sans-serif;
+}
+
+.title16 {
+  font-size: small;
+  color: #256656;
+  text-align: left;
+  font-weight: lighter;
+  font-family: "DM Sans", sans-serif;
+  margin-top: 30px;
+}
+
+.title17 {
+  padding-left: 10px;
+  font-size: large;
+  color: #256656;
+  margin-top: 20px;
+  text-align: left;
+  font-weight: bolder;
+  margin-bottom: 20px;
+  font-family: "DM Sans", sans-serif;
+}
+
+.title18 {
+  width: 70%;
+  padding-left: 10px;
+  font-size: large;
+  color: #256656;
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bolder;
+  margin-left: 100px;
+  margin-bottom: 20px;
+  font-family: "DM Sans", sans-serif;
+}
+
+.title19 {
+  padding: 3px;
+  font-size: small;
+  color: #000000;
+  text-align: center;
+  font-weight: lighter;
+  font-family: "DM Sans", sans-serif;
+  margin-left: 11px;
+}
+
+.title20 {
+  width: 70%;
+  padding-left: 10px;
+  font-size: large;
+  color: #256656;
+  margin-top: 50px;
+  text-align: left;
+  font-weight: bolder;
+  font-family: "DM Sans", sans-serif;
+}
+
+.title21 {
+  font-size: small;
+  color: #256656;
+  text-align: left;
+  font-weight: lighter;
+  font-family: "DM Sans", sans-serif;
+  margin-left: 11px;
+  margin-bottom: 20px;
+}
+
+.title22 {
+  font-size: small;
+  color: #256656;
+  text-align: center;
+  font-weight: lighter;
+  font-family: "DM Sans", sans-serif;
+  margin-left: 11px;
+  padding-top: 20px;
+}
+
+.button1 {
+  font-family: "Poppins", sans-serif;
+  background-color: orange;
+  border: none;
+  padding: 10px 20px;
+  font-size: 13px;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 60%;
+  margin-top: 43px; /* Add margin to separate the button from text */
+  color: white;
+}
+
+.button1:hover {
+  background-color: darkorange; /* Optional: Add a darker shade for hover effect */
+}
+
+.button2 {
+  font-family: "Poppins", sans-serif;
+  background-color: orange;
+  border: none;
+  padding: 10px 20px;
+  font-size: 13px;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 60%;
+  margin-top: -10px; /* Add margin to separate the button from text */
+  color: white;
+}
+
+.button2:hover {
+  background-color: darkorange; /* Optional: Add a darker shade for hover effect */
+}
+
+.button3 {
+  font-family: "Poppins", sans-serif;
+  background-color: orange;
+  border: none;
+  padding: 10px 20px;
+  font-size: 13px;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 60%;
+  margin-top: 40px; /* Add margin to separate the button from text */
+  color: white;
+}
+
+.button3:hover {
+  background-color: darkorange; /* Optional: Add a darker shade for hover effect */
+}
+
+.button4 {
+  font-family: "Poppins", sans-serif;
+  background-color: orange;
+  border: none;
+  padding: 10px 20px;
+  font-size: 13px;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 60%;
+  margin-top: -10px; /* Add margin to separate the button from text */
+  color: white;
+}
+
+.button4:hover {
+  background-color: darkorange; /* Optional: Add a darker shade for hover effect */
+}
+
+.button5 {
+  font-family: "Poppins", sans-serif;
+  background-color: orange;
+  border: none;
+  padding: 10px 20px;
+  font-size: 13px;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 40%;
+  margin-top: 30px; /* Add margin to separate the button from text */
+  color: white;
+}
+
+.button5:hover {
+  background-color: darkorange; /* Optional: Add a darker shade for hover effect */
+}
+
+/* ImageWithText.css */
+.image-container {
+  position: relative;
+  display: inline-block;
+  margin-top: 100px; /* Add margin to all sides */
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.image {
+  display: block;
+  width: 100%; /* Pastikan gambar memenuhi lebar container */
+  height: auto;
+}
+
+.text-overlay {
+  width: 1000px;
+  font-family: "Poppins", sans-serif;
+  position: absolute;
+  top: 50%; /* Posisikan teks di tengah secara vertikal */
+  left: 50%; /* Posisikan teks di tengah secara horizontal */
+  transform: translate(-50%, -50%); /* Pusatkan teks dengan transformasi */
+  color: white; /* Warna teks */
+  text-align: center; /* Pusatkan teks secara horizontal */
+  padding: 20px; /* Padding untuk teks */
+  border-radius: 10px; /* Tambahkan border-radius jika diperlukan */
+}
+
+.horizontal-line {
+  border: none; /* Hilangkan border default */
+  height: 5px; /* Atur tinggi garis */
+  background-color: rgb(255, 255, 255); /* Warna garis */
+  margin: 20px 0; /* Margin atas dan bawah */
+}
+
+.horizontal-line1 {
+  border: none; /* Hilangkan border default */
+  height: 1px; /* Atur tinggi garis */
+  background-color: #256656; /* Warna garis */
+  margin: 20px 0; /* Margin atas dan bawah */
+}
+
+.title14 {
+  font-family: "DM Sans", sans-serif;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.footer {
+  background-color: #fff0da;
+  padding: 20px 0; /* Padding atas dan bawah footer */
+  height: 400px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.footer h5 {
+  margin-bottom: 15px; /* Margin bawah untuk judul kolom */
+}
+
+.gambar5 {
+  margin-right: 70px;
+}
+
+.button6 {
+  color: #256656;
+  font-family: "DM Sans", sans-serif;
+  border: none;
+  background-color: #fff0da;
+  font-size: x-small; /* Smaller font size */
+  padding: 5px 10px; /* Smaller padding */
+  border-radius: 10px; /* Adjusted border radius */
+  width: auto; /* Auto width to fit content */
+}
+
+.column-footer {
+  text-align: justify;
+  margin-left: 170px;
+}
